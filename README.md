@@ -1,6 +1,6 @@
 # Test-Driven Development with FastAPI and Docker
 
-![Continuous Integration and Delivery](https://github.com/elisa-desmetz/h3_projet_tdd/workflows/Continuous%20Integration%20and%20Delivery/badge.svg?branch=master)
+![Continuous Integration and Delivery](https://github.com/elisa-desmetz/h3_projet_tdd/actions/workflows/main.yml/badge.svg)
 
 # H3_Projet_TDD
 
